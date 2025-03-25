@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ritikport.onrender.com/](https://ritikport.onrender.com/)
 
-- 💬 Ask me about **Data Structures & Algorithms, Javascript, React, Node.js, System Design, C++**
+- 💬 Ask me about **Data Structures & Algorithms, Javascript, React, Node.js, Full-stack, System Design, C++**
 
 - 📫 To reach out **ritikporwal710@gmail.com**
 
