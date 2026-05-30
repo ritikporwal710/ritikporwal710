@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Porwal</h1>
-<h3 align="center">Software Engineer | Backend Developer | Java • Spring Boot • PostgreSQL • AWS</h3>
+<h3 align="center">Software Engineer | Backend-Focused Full-Stack Developer | Java • Spring Boot • JavaScript • Node.js • React.js  • PostgreSQL • AWS</h3>
 
 <p align="center">
 Building scalable backend systems, microservices, and cloud-native applications.
